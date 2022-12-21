@@ -1,6 +1,5 @@
-### Hi there 👋
-
 <!--
+### Hi there 👋
 **dlcnx/dlcnx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +13,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Stats](https://github-readme-stats.vercel.app/api?username=dlcnx&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dlcnx&layout=compact)
