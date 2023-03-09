@@ -16,4 +16,8 @@ Here are some ideas to get you started:
 <!-- ![Stats](https://github-readme-stats.vercel.app/api?username=dlcnx&show_icons=true) -->
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dlcnx&layout=compact) -->
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=dlcnx&show_icons=true" width="50%"><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=dlcnx&layout=compact" width="44%">
+<!-- <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=dlcnx&show_icons=true" width="50%"><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=dlcnx&layout=compact" width="44%"> -->
+
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dlcnx&theme=github)
+![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dlcnx&theme=github)
+
